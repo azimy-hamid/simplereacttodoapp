@@ -23,7 +23,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository:**
 
-- git clone https://github.com/your-username/your-repo-name.git
+- Clone the repo locally
 - Navigate to the Project Directory
 - npm install
 - npm start
